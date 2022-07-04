@@ -1,0 +1,3 @@
+# Introduction
+
+The purpose of this pipeline is to provide a tool to add new GWAS data processed at Stanford University in an organized and structured way. The pipeline will read a set of PLINK files, and will divide it in plates, saving each plate in a different folder. Finally, it will create a text file containing the FID, IID, and GWAS of each patient, as well as the full path to the file where each patient is located.
