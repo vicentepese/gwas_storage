@@ -1,0 +1,9 @@
+{
+    "file_path":"data/Stanford_PMRAr3_169_170_171",
+    "raw_data_path":"/labs/mignot/raw_data/gwas/stanford/",
+
+    "INFO":{
+        "file_path":"Full path to file, excluding the suffix.",
+        "raw_data_path":"Full path to the GWAS raw data storage main folder. Do not edit unless necessary."
+    }
+}
